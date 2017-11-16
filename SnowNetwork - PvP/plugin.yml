@@ -1,0 +1,13 @@
+name: SnowPvP
+version: 1.0
+main: me.snow.pvp.Main
+author: FreddyDZN
+descripition: Plugin De PvP Desse Belo Server
+commands:
+   dono:
+   dev:
+   gm:
+   tpvp:
+   manutencao:
+   kickall:
+   banrafaelcasodermerda:
